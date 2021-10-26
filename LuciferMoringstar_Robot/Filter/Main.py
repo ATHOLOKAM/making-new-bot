@@ -277,7 +277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+                    InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietym_official_group")
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -285,7 +285,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+                    InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietym_official_group")
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -308,7 +308,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietym_official_group")
                     ]
                     ]
                 
@@ -339,7 +339,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietym_official_group")
                     ]
                     ]
                 
