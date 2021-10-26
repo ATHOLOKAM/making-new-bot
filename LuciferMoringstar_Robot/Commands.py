@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+                        InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietymofficial")
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('🔰DEVOLPERS🔰', url="http://t.me/movietym4")
+            InlineKeyboardButton('🔰DEVOLPERS🔰', url="https://t.me/Movietymofficial")
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
