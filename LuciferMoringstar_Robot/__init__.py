@@ -30,12 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ GROUP: ('MOVIE TYM', url="https://t.me/Movietym202")
 
 ➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ MAIN CHANNEL : ('MOVIE TYM', url="https://t.me/movietym4")
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ SUPPORT : JOIN OUR GROUP AND REQUEST MOVIE...😊
 """
