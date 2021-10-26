@@ -30,11 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ GROUP: ('MOVIE TYM', url="https://t.me/Movietym202")
+➥ GROUP:  MOVIE TYM ("https://t.me/Movietym202)
 
 ➥ Language : Python3
 
-➥ MAIN CHANNEL : ('MOVIE TYM', url="https://t.me/movietym4")
+➥ MAIN CHANNEL : MOVIE TYM (https://t.me/movietym4)
 
 ➥ SUPPORT : JOIN OUR GROUP AND REQUEST MOVIE...😊
 """
