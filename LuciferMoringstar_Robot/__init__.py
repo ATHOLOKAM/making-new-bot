@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ GROUP:  MOVIE TYM (https://t.me/Movietym_official_group)
+➥ GROUP:  [MOVIE TYM](https://t.me/Movietym_official_group)
 
 ➥ Language : Python3
 
