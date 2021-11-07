@@ -34,7 +34,7 @@ ABOUT = """
 
 ➥ Language : Python3
 
-➥ MAIN CHANNEL : MOVIE TYM (https://t.me/Movietymofficial)
+➥ MAIN CHANNEL : [MOVIE TYM](https://t.me/Movietymofficial)
 
 ➥ SUPPORT : JOIN OUR GROUP AND REQUEST MOVIE...😊
 """
